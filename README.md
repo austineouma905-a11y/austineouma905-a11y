@@ -15,19 +15,18 @@
 </a><p>
   <img src="https://komarev.com/ghpvc/?username=austineouma905-a11y&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/austineouma905-a11y?label=FOLLOWERS&style=for-the-badge&color=6D28D9" alt="GitHub followers" />
-</p></div>👨‍💻 About Me
-Hey! I'm Austine Ouma, a developer interested in building useful software and solving real-world problems through technology.
+</p></div>👨‍💻
+I'm Austine Ouma, a developer interested in building useful software and solving real-world problems through technology.
 - 🎓 Computer Science student.
 - 💻 Interested in web application development and software engineering.
-- 🌱 Currently strengthening my skills in PHP, Laravel, Java and JavaScript.
+- 🌱 Currently Good in PHP, Laravel, Java and JavaScript.
 - 🛠️ Interested in building practical systems that make everyday tasks easier.
 - 🤝 Open to collaborating on meaningful software projects.
 - ⚡ I enjoy learning by building, experimenting and improving my code.
 🚀 Featured Projects
 Here are some projects I'm working on or developing. Replace the # links with the corresponding GitHub repository URLs when available.
 Project	Description	Technologies	Status
-Campus Nexa	A university-focused platform concept for campus events, venue bookings, student businesses, clubs and student-to-student buying and selling.	PHP · Laravel · JavaScript · MySQL	In progress
-Geo-fenced Attendance System	A class attendance system concept that uses location boundaries to help restrict attendance marking to students near the class venue.	Web technologies · Database	Academic project
+Campus Nexa	A university-focused platform concept for campus events, venue bookings, student businesses, clubs and student-to-student buying and selling.	PHP · Laravel · JavaScript · MySQL
 Receipting Process	A Laravel-based receipting application involving receipt processing and accounting-related workflows.	PHP · Laravel · MySQL	Development
 
 
